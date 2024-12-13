@@ -1,0 +1,5 @@
+E:/studyspace/CLION_Project/QT_Danpianji_upper/cmake-build-debug-mingw/CMakeFiles/QT_Danpianji_upper.dir
+E:/studyspace/CLION_Project/QT_Danpianji_upper/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+E:/studyspace/CLION_Project/QT_Danpianji_upper/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+E:/studyspace/CLION_Project/QT_Danpianji_upper/cmake-build-debug-mingw/CMakeFiles/QT_Danpianji_upper_autogen_timestamp_deps.dir
+E:/studyspace/CLION_Project/QT_Danpianji_upper/cmake-build-debug-mingw/CMakeFiles/QT_Danpianji_upper_autogen.dir
